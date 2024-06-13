@@ -1,5 +1,6 @@
 ## Hi there 👋 
-## my name is Glória
+## my name is Glória            
+## Bem vindo(a) ao meu perfil
 I´m currently studying on the alura!
  I’m learning and
  I'm developing in the JavaScript language         
