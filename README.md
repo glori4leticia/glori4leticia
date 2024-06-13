@@ -5,7 +5,7 @@ I´m currently studying on the alura!
  I’m learning and
  I'm developing in the JavaScript language         
 I use this space to organize and share my projects developed.
-it has been very good
+**it has been very good**
 
 
 
